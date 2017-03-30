@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "return hello world",
+  "main": "build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitsoe/hello-world.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "Mitch Lamers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitsoe/hello-world/issues"
+  },
+  "homepage": "https://github.com/mitsoe/hello-world#readme"
+}
